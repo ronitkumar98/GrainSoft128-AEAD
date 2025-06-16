@@ -75,6 +75,9 @@ sage filename.py
 ```
 Replace `filename.py` with the specific test script name.
 
+MIT License
+Feel free to use, modify, and share. Give credit if it helps your work
+
 ## Notes
 
 - Ensure all Python scripts are executable and dependencies are installed
