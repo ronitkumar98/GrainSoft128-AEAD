@@ -1,0 +1,27 @@
+[
+    {
+        "filename": "message_10KB.txt",
+        "size_bytes": 10240,
+        "encryption_time": 0.46254587173461914
+    },
+    {
+        "filename": "message_50KB.txt",
+        "size_bytes": 51200,
+        "encryption_time": 2.2775397300720215
+    },
+    {
+        "filename": "message_100KB.txt",
+        "size_bytes": 102400,
+        "encryption_time": 4.959683656692505
+    },
+    {
+        "filename": "message_150KB.txt",
+        "size_bytes": 153600,
+        "encryption_time": 7.155219316482544
+    },
+    {
+        "filename": "message_200KB.txt",
+        "size_bytes": 204800,
+        "encryption_time": 9.710431814193726
+    }
+]

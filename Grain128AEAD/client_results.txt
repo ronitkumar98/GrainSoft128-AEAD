@@ -1,0 +1,5 @@
+File: message_100KB.txt, Size: 100.00 KB, Avg Enc Time: 31233.23 ms, Avg Dec Time: 31133.79 ms, Avg Auth Time: 30652.80 ms, Avg Memory Delta: 48.00 KB
+File: message_10KB.txt, Size: 10.00 KB, Avg Enc Time: 2912.57 ms, Avg Dec Time: 3089.25 ms, Avg Auth Time: 3060.28 ms, Avg Memory Delta: 29.33 KB
+File: message_150KB.txt, Size: 150.00 KB, Avg Enc Time: 47084.57 ms, Avg Dec Time: 55748.31 ms, Avg Auth Time: 55714.68 ms, Avg Memory Delta: -1520.00 KB
+File: message_200KB.txt, Size: 200.00 KB, Avg Enc Time: 61183.34 ms, Avg Dec Time: 60092.82 ms, Avg Auth Time: 58708.16 ms, Avg Memory Delta: -161.33 KB
+File: message_50KB.txt, Size: 50.00 KB, Avg Enc Time: 14179.85 ms, Avg Dec Time: 13936.49 ms, Avg Auth Time: 13917.83 ms, Avg Memory Delta: -46.67 KB
